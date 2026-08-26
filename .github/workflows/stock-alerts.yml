@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # Keep these in sync with the settings you actually use on the page.
-      PRICE_CAP: "15"
+      PRICE_CAP: "20"
       CHANGE_THRESHOLD: "5"
-      VOL_RATIO_THRESHOLD: "1.5"
-      MIN_VOLUME: "100000"
+      VOL_RATIO_THRESHOLD: "2"
+      MIN_VOLUME: "100000000"
       REQUIRE_MA: "true"
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
     steps:
