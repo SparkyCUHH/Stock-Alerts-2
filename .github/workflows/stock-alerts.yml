@@ -17,7 +17,7 @@ jobs:
       PRICE_CAP: "20"
       CHANGE_THRESHOLD: "5"
       VOL_RATIO_THRESHOLD: "2"
-      MIN_VOLUME: "100000000"
+      MIN_VOLUME: "1000000"
       REQUIRE_MA: "true"
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
     steps:
