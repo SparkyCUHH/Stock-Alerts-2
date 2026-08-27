@@ -1,24 +1,44 @@
 {
   "alerted": {
-    "BHVN": {
-      "name": "Biohaven Ltd.",
-      "price": 16.95,
-      "time": "2026-08-26T21:40:15.277689+00:00"
+    "BBBYW": {
+      "name": "Neighborhood Intelligence, Inc. Warrants",
+      "price": 0.6666,
+      "time": "2026-08-27T20:44:14.339041+00:00"
     },
-    "BZ": {
-      "name": "KANZHUN LIMITED - American Depo",
-      "price": 18.84,
-      "time": "2026-08-26T21:40:15.277689+00:00"
+    "BIRD": {
+      "name": "Smartbird, Inc.",
+      "price": 2.77,
+      "time": "2026-08-27T20:44:14.339041+00:00"
     },
-    "ERAS": {
-      "name": "Erasca, Inc.",
-      "price": 19.15,
-      "time": "2026-08-26T21:40:15.277689+00:00"
+    "CGNT": {
+      "name": "Cognyte Software Ltd.",
+      "price": 9.02,
+      "time": "2026-08-27T20:44:14.339041+00:00"
     },
-    "WBTN": {
-      "name": "WEBTOON Entertainment Inc.",
-      "price": 10.47,
-      "time": "2026-08-26T21:40:15.277689+00:00"
+    "EGHT": {
+      "name": "8x8 Inc",
+      "price": 2.01,
+      "time": "2026-08-27T20:44:14.339041+00:00"
+    },
+    "LDI": {
+      "name": "loanDepot, Inc.",
+      "price": 0.9732,
+      "time": "2026-08-27T20:44:14.339041+00:00"
+    },
+    "LOT": {
+      "name": "Lotus Technology Inc.",
+      "price": 1.25,
+      "time": "2026-08-27T20:44:14.339041+00:00"
+    },
+    "NEO": {
+      "name": "NeoGenomics, Inc.",
+      "price": 18.64,
+      "time": "2026-08-27T20:44:14.339041+00:00"
+    },
+    "NTSK": {
+      "name": "Netskope, Inc.",
+      "price": 15.12,
+      "time": "2026-08-27T20:44:14.339041+00:00"
     }
   }
 }
