@@ -20,10 +20,20 @@
       "price": 0.8762,
       "time": "2026-08-31T20:07:00.218811+00:00"
     },
+    "PMVP": {
+      "name": "PMV Pharmaceuticals, Inc.",
+      "price": 1.29,
+      "time": "2026-09-01T22:05:30.698161+00:00"
+    },
     "SID": {
       "name": "Companhia Siderurgica Nacional ",
       "price": 1.105,
       "time": "2026-09-01T16:57:16.127184+00:00"
+    },
+    "SST": {
+      "name": "System1, Inc.",
+      "price": 2.84,
+      "time": "2026-09-01T22:05:30.698161+00:00"
     }
   }
 }
