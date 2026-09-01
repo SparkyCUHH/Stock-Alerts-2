@@ -5,6 +5,16 @@
       "price": 15.6776,
       "time": "2026-09-01T16:57:16.127184+00:00"
     },
+    "CTMX": {
+      "name": "CytomX Therapeutics, Inc.",
+      "price": 3.705,
+      "time": "2026-09-01T19:43:30.325057+00:00"
+    },
+    "EMPD": {
+      "name": "Empery Digital Inc.",
+      "price": 3.54,
+      "time": "2026-09-01T19:43:30.325057+00:00"
+    },
     "GPRO": {
       "name": "GoPro, Inc.",
       "price": 0.8762,
@@ -14,11 +24,6 @@
       "name": "Companhia Siderurgica Nacional ",
       "price": 1.105,
       "time": "2026-09-01T16:57:16.127184+00:00"
-    },
-    "STDN": {
-      "name": "Standard Nuclear, Inc.",
-      "price": 16.05,
-      "time": "2026-08-31T20:07:00.218811+00:00"
     }
   }
 }
