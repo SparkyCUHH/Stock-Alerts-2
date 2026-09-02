@@ -1,3 +1,14 @@
 {
-  "alerted": {}
+  "alerted": {
+    "DSX": {
+      "name": "Diana Shipping inc.",
+      "price": 2.995,
+      "time": "2026-09-02T19:44:48.985400+00:00"
+    },
+    "GPRO": {
+      "name": "GoPro, Inc.",
+      "price": 1.6701,
+      "time": "2026-09-02T19:44:48.985400+00:00"
+    }
+  }
 }
