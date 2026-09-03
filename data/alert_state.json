@@ -1,59 +1,14 @@
 {
   "alerted": {
-    "BHC": {
-      "name": "Bausch Health Companies Inc.",
-      "price": 6.83,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
-    "DH": {
-      "name": "Definitive Healthcare Corp.",
-      "price": 1.04,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
     "DSX": {
       "name": "Diana Shipping inc.",
       "price": 2.995,
       "time": "2026-09-02T19:44:48.985400+00:00"
     },
-    "FMC": {
-      "name": "FMC Corporation",
-      "price": 13.33,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
-    "GERN": {
-      "name": "Geron Corporation",
-      "price": 1.59,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
     "GPRO": {
       "name": "GoPro, Inc.",
       "price": 1.6701,
       "time": "2026-09-02T19:44:48.985400+00:00"
-    },
-    "OPK": {
-      "name": "Opko Health, Inc.",
-      "price": 1.69,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
-    "RSKD": {
-      "name": "Riskified Ltd.",
-      "price": 6.65,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
-    "SGLD": {
-      "name": "Scorpio Gold Corporation American Depositary Shares",
-      "price": 7.23,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
-    "SPWH": {
-      "name": "Sportsman's Warehouse Holdings,",
-      "price": 1.28,
-      "time": "2026-09-03T01:58:33.963087+00:00"
-    },
-    "VIOT": {
-      "name": "Viomi Technology Co., Ltd",
-      "price": 1.78,
-      "time": "2026-09-03T01:58:33.963087+00:00"
     }
   }
 }
