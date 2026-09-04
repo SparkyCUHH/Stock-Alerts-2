@@ -1,44 +1,14 @@
 {
   "alerted": {
-    "CHGG": {
-      "name": "Chegg, Inc.",
-      "price": 1.01,
-      "time": "2026-09-03T18:41:41.020768+00:00"
+    "AOUT": {
+      "name": "American Outdoor Brands, Inc.",
+      "price": 14.08,
+      "time": "2026-09-04T13:59:31.466948+00:00"
     },
-    "CHPT": {
-      "name": "ChargePoint Holdings, Inc.",
-      "price": 7.85,
-      "time": "2026-09-03T15:12:39.127438+00:00"
-    },
-    "DLTH": {
-      "name": "Duluth Holdings Inc.",
-      "price": 4.27,
-      "time": "2026-09-03T15:12:39.127438+00:00"
-    },
-    "PAYP": {
-      "name": "PayPay Corporation - American D",
-      "price": 16.93,
-      "time": "2026-09-03T21:22:46.491290+00:00"
-    },
-    "SID": {
-      "name": "Companhia Siderurgica Nacional ",
-      "price": 1.26,
-      "time": "2026-09-03T21:22:46.491290+00:00"
-    },
-    "SMMT": {
-      "name": "Summit Therapeutics Inc.",
-      "price": 17.13,
-      "time": "2026-09-03T21:22:46.491290+00:00"
-    },
-    "TLYS": {
-      "name": "Tilly's, Inc.",
-      "price": 4.2001,
-      "time": "2026-09-03T15:12:39.127438+00:00"
-    },
-    "YQ": {
-      "name": "17 Education & Technology Group",
-      "price": 2.525,
-      "time": "2026-09-03T15:12:39.127438+00:00"
+    "CURV": {
+      "name": "Torrid Holdings Inc.",
+      "price": 2.6799,
+      "time": "2026-09-04T13:59:31.466948+00:00"
     }
   }
 }
