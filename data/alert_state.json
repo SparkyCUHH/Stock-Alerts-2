@@ -1,10 +1,5 @@
 {
   "alerted": {
-    "AMC": {
-      "name": "AMC Entertainment Holdings, Inc",
-      "price": 2.6803,
-      "time": "2026-09-04T17:24:25.823449+00:00"
-    },
     "AOUT": {
       "name": "American Outdoor Brands, Inc.",
       "price": 14.08,
@@ -19,6 +14,16 @@
       "name": "Torrid Holdings Inc.",
       "price": 2.6799,
       "time": "2026-09-04T13:59:31.466948+00:00"
+    },
+    "EPRX": {
+      "name": "Eupraxia Pharmaceuticals Inc.",
+      "price": 8.28,
+      "time": "2026-09-04T19:43:27.794228+00:00"
+    },
+    "GPRO": {
+      "name": "GoPro, Inc.",
+      "price": 1.645,
+      "time": "2026-09-04T19:43:27.794228+00:00"
     },
     "PYXS": {
       "name": "Pyxis Oncology, Inc.",
