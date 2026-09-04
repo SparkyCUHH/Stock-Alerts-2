@@ -1,14 +1,29 @@
 {
   "alerted": {
+    "AMC": {
+      "name": "AMC Entertainment Holdings, Inc",
+      "price": 2.6803,
+      "time": "2026-09-04T17:24:25.823449+00:00"
+    },
     "AOUT": {
       "name": "American Outdoor Brands, Inc.",
       "price": 14.08,
       "time": "2026-09-04T13:59:31.466948+00:00"
     },
+    "CHPT": {
+      "name": "ChargePoint Holdings, Inc.",
+      "price": 9.785,
+      "time": "2026-09-04T17:24:25.823449+00:00"
+    },
     "CURV": {
       "name": "Torrid Holdings Inc.",
       "price": 2.6799,
       "time": "2026-09-04T13:59:31.466948+00:00"
+    },
+    "PYXS": {
+      "name": "Pyxis Oncology, Inc.",
+      "price": 3.91,
+      "time": "2026-09-04T17:24:25.823449+00:00"
     }
   }
 }
