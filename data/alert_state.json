@@ -5,14 +5,49 @@
       "price": 4.985,
       "time": "2026-09-08T18:34:09.202292+00:00"
     },
+    "EROC": {
+      "name": "ERock, Inc.",
+      "price": 13.74,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
+    "INFQ": {
+      "name": "Infleqtion, Inc.",
+      "price": 13.66,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
+    "NKTX": {
+      "name": "Nkarta, Inc.",
+      "price": 3.23,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
+    "NOK": {
+      "name": "Nokia Corporation Sponsored",
+      "price": 10.65,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
+    "NRGV": {
+      "name": "Energy Vault Holdings, Inc.",
+      "price": 4.32,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
+    "SABR": {
+      "name": "Sabre Corporation",
+      "price": 2.26,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
+    "SECZ": {
+      "name": "Securitize Corp.",
+      "price": 8.25,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
+    "SES": {
+      "name": "SES AI Corporation",
+      "price": 0.5695,
+      "time": "2026-09-08T21:22:41.296822+00:00"
+    },
     "SST": {
       "name": "System1, Inc.",
       "price": 5.2599,
-      "time": "2026-09-08T18:34:09.202292+00:00"
-    },
-    "WDH": {
-      "name": "Waterdrop Inc.",
-      "price": 1.079,
       "time": "2026-09-08T18:34:09.202292+00:00"
     }
   }
