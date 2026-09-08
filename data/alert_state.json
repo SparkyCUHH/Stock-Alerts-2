@@ -1,29 +1,3 @@
 {
-  "alerted": {
-    "AOUT": {
-      "name": "American Outdoor Brands, Inc.",
-      "price": 14.08,
-      "time": "2026-09-04T13:59:31.466948+00:00"
-    },
-    "CHPT": {
-      "name": "ChargePoint Holdings, Inc.",
-      "price": 9.785,
-      "time": "2026-09-04T17:24:25.823449+00:00"
-    },
-    "CURV": {
-      "name": "Torrid Holdings Inc.",
-      "price": 2.6799,
-      "time": "2026-09-04T13:59:31.466948+00:00"
-    },
-    "EPRX": {
-      "name": "Eupraxia Pharmaceuticals Inc.",
-      "price": 8.4,
-      "time": "2026-09-05T05:56:56.665235+00:00"
-    },
-    "PYXS": {
-      "name": "Pyxis Oncology, Inc.",
-      "price": 3.91,
-      "time": "2026-09-04T17:24:25.823449+00:00"
-    }
-  }
+  "alerted": {}
 }
