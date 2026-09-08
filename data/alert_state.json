@@ -1,3 +1,19 @@
 {
-  "alerted": {}
+  "alerted": {
+    "ANGX": {
+      "name": "Angel Studios, Inc.",
+      "price": 4.985,
+      "time": "2026-09-08T18:34:09.202292+00:00"
+    },
+    "SST": {
+      "name": "System1, Inc.",
+      "price": 5.2599,
+      "time": "2026-09-08T18:34:09.202292+00:00"
+    },
+    "WDH": {
+      "name": "Waterdrop Inc.",
+      "price": 1.079,
+      "time": "2026-09-08T18:34:09.202292+00:00"
+    }
+  }
 }
