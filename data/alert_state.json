@@ -1,3 +1,29 @@
 {
-  "alerted": {}
+  "alerted": {
+    "ANGX": {
+      "name": "Angel Studios, Inc.",
+      "price": 5.385,
+      "time": "2026-09-10T20:04:32.322580+00:00"
+    },
+    "DBI": {
+      "name": "Designer Brands Inc.",
+      "price": 5.98,
+      "time": "2026-09-10T20:04:32.322580+00:00"
+    },
+    "INTR": {
+      "name": "Inter & Co. Inc.",
+      "price": 5.78,
+      "time": "2026-09-10T20:04:32.322580+00:00"
+    },
+    "MYGN": {
+      "name": "Myriad Genetics, Inc.",
+      "price": 3.36,
+      "time": "2026-09-10T20:04:32.322580+00:00"
+    },
+    "WLTH": {
+      "name": "Wealthfront Corporation",
+      "price": 10.88,
+      "time": "2026-09-10T20:04:32.322580+00:00"
+    }
+  }
 }
