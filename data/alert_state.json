@@ -5,10 +5,35 @@
       "price": 8.5,
       "time": "2026-09-14T18:51:31.315849+00:00"
     },
+    "CLNE": {
+      "name": "Clean Energy Fuels Corp.",
+      "price": 1.78,
+      "time": "2026-09-14T22:11:43.309137+00:00"
+    },
+    "DBI": {
+      "name": "Designer Brands Inc.",
+      "price": 6.53,
+      "time": "2026-09-14T22:11:43.309137+00:00"
+    },
+    "NTSK": {
+      "name": "Netskope, Inc.",
+      "price": 17.0,
+      "time": "2026-09-14T22:11:43.309137+00:00"
+    },
     "RUM": {
       "name": "RUM Group Inc.",
       "price": 8.5,
       "time": "2026-09-14T13:38:17.788563+00:00"
+    },
+    "SAIL": {
+      "name": "SailPoint, Inc.",
+      "price": 19.88,
+      "time": "2026-09-14T22:11:43.309137+00:00"
+    },
+    "SES": {
+      "name": "SES AI Corporation",
+      "price": 0.6137,
+      "time": "2026-09-14T22:11:43.309137+00:00"
     }
   }
 }
