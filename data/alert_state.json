@@ -1,14 +1,19 @@
 {
   "alerted": {
-    "ACVA": {
-      "name": "ACV Auctions Inc.",
-      "price": 10.43,
-      "time": "2026-09-11T13:36:17.434295+00:00"
+    "HAIN": {
+      "name": "The Hain Celestial Group, Inc.",
+      "price": 0.664,
+      "time": "2026-09-14T13:38:17.788563+00:00"
     },
-    "ATEC": {
-      "name": "Alphatec Holdings, Inc.",
-      "price": 10.495,
-      "time": "2026-09-11T19:40:00.647300+00:00"
+    "OPENL": {
+      "name": "Opendoor Technologies Inc.",
+      "price": 0.2016,
+      "time": "2026-09-14T13:38:17.788563+00:00"
+    },
+    "RUM": {
+      "name": "RUM Group Inc.",
+      "price": 8.5,
+      "time": "2026-09-14T13:38:17.788563+00:00"
     }
   }
 }
