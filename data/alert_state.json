@@ -1,29 +1,14 @@
 {
   "alerted": {
-    "ALLT": {
-      "name": "Allot Ltd.",
-      "price": 8.5,
-      "time": "2026-09-14T18:51:31.315849+00:00"
+    "CANG": {
+      "name": "Cango Inc.",
+      "price": 2.0499,
+      "time": "2026-09-15T14:57:20.090802+00:00"
     },
-    "CLNE": {
-      "name": "Clean Energy Fuels Corp.",
-      "price": 1.78,
-      "time": "2026-09-14T22:11:43.309137+00:00"
-    },
-    "DBI": {
-      "name": "Designer Brands Inc.",
-      "price": 6.53,
-      "time": "2026-09-14T22:11:43.309137+00:00"
-    },
-    "RUM": {
-      "name": "RUM Group Inc.",
-      "price": 8.5,
-      "time": "2026-09-14T13:38:17.788563+00:00"
-    },
-    "SES": {
-      "name": "SES AI Corporation",
-      "price": 0.6137,
-      "time": "2026-09-14T22:11:43.309137+00:00"
+    "VRA": {
+      "name": "Vera Bradley, Inc.",
+      "price": 3.48,
+      "time": "2026-09-15T14:57:20.090802+00:00"
     }
   }
 }
