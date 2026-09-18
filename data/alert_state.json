@@ -1,59 +1,9 @@
 {
   "alerted": {
-    "ABSI": {
-      "name": "Absci Corporation",
-      "price": 9.535,
-      "time": "2026-09-17T18:58:08.757392+00:00"
-    },
-    "DNA": {
-      "name": "Ginkgo Bioworks Holdings, Inc.",
-      "price": 7.84,
-      "time": "2026-09-17T21:53:36.090897+00:00"
-    },
-    "FEAM": {
-      "name": "5E Advanced Materials, Inc.",
-      "price": 2.0051,
-      "time": "2026-09-17T18:58:08.757392+00:00"
-    },
-    "GENB": {
-      "name": "Generate Biomedicines, Inc.",
-      "price": 17.12,
-      "time": "2026-09-17T21:53:36.090897+00:00"
-    },
     "GLOO": {
       "name": "Gloo Holdings, Inc.",
       "price": 4.13,
       "time": "2026-09-16T19:44:52.581234+00:00"
-    },
-    "IBRX": {
-      "name": "ImmunityBio, Inc.",
-      "price": 8.46,
-      "time": "2026-09-17T21:53:36.090897+00:00"
-    },
-    "IMMR": {
-      "name": "Immersion Corporation",
-      "price": 7.52,
-      "time": "2026-09-17T21:53:36.090897+00:00"
-    },
-    "LVWR": {
-      "name": "LiveWire Group, Inc.",
-      "price": 1.4699,
-      "time": "2026-09-17T18:58:08.757392+00:00"
-    },
-    "PGEN": {
-      "name": "Precigen, Inc.",
-      "price": 7.87,
-      "time": "2026-09-17T21:53:36.090897+00:00"
-    },
-    "SECZ": {
-      "name": "Securitize Corp.",
-      "price": 9.02,
-      "time": "2026-09-17T18:58:08.757392+00:00"
-    },
-    "TRVG": {
-      "name": "trivago N.V.",
-      "price": 6.69,
-      "time": "2026-09-17T21:53:36.090897+00:00"
     }
   }
 }
