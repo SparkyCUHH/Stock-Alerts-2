@@ -1,9 +1,34 @@
 {
   "alerted": {
+    "CANG": {
+      "name": "Cango Inc.",
+      "price": 2.6881,
+      "time": "2026-09-18T18:30:09.540233+00:00"
+    },
+    "FEAM": {
+      "name": "5E Advanced Materials, Inc.",
+      "price": 2.4202,
+      "time": "2026-09-18T18:30:09.540233+00:00"
+    },
+    "GEMI": {
+      "name": "Gemini Space Station, Inc.",
+      "price": 5.545,
+      "time": "2026-09-18T18:30:09.540233+00:00"
+    },
     "GLOO": {
       "name": "Gloo Holdings, Inc.",
       "price": 4.13,
       "time": "2026-09-16T19:44:52.581234+00:00"
+    },
+    "LVWR": {
+      "name": "LiveWire Group, Inc.",
+      "price": 1.7193,
+      "time": "2026-09-18T18:30:09.540233+00:00"
+    },
+    "SECZ": {
+      "name": "Securitize Corp.",
+      "price": 9.99,
+      "time": "2026-09-18T18:30:09.540233+00:00"
     }
   }
 }
