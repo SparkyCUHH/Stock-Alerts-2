@@ -10,11 +10,6 @@
       "price": 8.61,
       "time": "2026-09-18T21:08:03.779465+00:00"
     },
-    "BTDR": {
-      "name": "Bitdeer Technologies Group",
-      "price": 12.97,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
     "BTGO": {
       "name": "BitGo Holdings, Inc.",
       "price": 7.56,
@@ -39,11 +34,6 @@
       "name": "Gemini Space Station, Inc.",
       "price": 5.545,
       "time": "2026-09-18T18:30:09.540233+00:00"
-    },
-    "KEEL": {
-      "name": "Keel Infrastructure Corp.",
-      "price": 4.01,
-      "time": "2026-09-18T21:08:03.779465+00:00"
     },
     "LVWR": {
       "name": "LiveWire Group, Inc.",
