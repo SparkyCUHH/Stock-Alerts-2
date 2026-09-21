@@ -1,5 +1,10 @@
 {
   "alerted": {
+    "ELME": {
+      "name": "Elme Communities",
+      "price": 1.75,
+      "time": "2026-09-21T22:44:22.187714+00:00"
+    },
     "SPRU": {
       "name": "Spruce Power Holding Corporatio",
       "price": 2.09,
