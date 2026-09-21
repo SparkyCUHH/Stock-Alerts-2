@@ -1,64 +1,9 @@
 {
   "alerted": {
-    "ALVO": {
-      "name": "Alvotech",
-      "price": 5.87,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
-    "BKKT": {
-      "name": "Bakkt, Inc.",
-      "price": 8.61,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
-    "BTGO": {
-      "name": "BitGo Holdings, Inc.",
-      "price": 7.56,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
-    "CANG": {
-      "name": "Cango Inc.",
-      "price": 2.6881,
-      "time": "2026-09-18T18:30:09.540233+00:00"
-    },
-    "CSHR": {
-      "name": "CoinShares PLC",
-      "price": 5.85,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
-    "FEAM": {
-      "name": "5E Advanced Materials, Inc.",
-      "price": 2.4202,
-      "time": "2026-09-18T18:30:09.540233+00:00"
-    },
-    "GEMI": {
-      "name": "Gemini Space Station, Inc.",
-      "price": 5.545,
-      "time": "2026-09-18T18:30:09.540233+00:00"
-    },
-    "LVWR": {
-      "name": "LiveWire Group, Inc.",
-      "price": 1.7193,
-      "time": "2026-09-18T18:30:09.540233+00:00"
-    },
-    "NRGV": {
-      "name": "Energy Vault Holdings, Inc.",
-      "price": 4.49,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
-    "PURR": {
-      "name": "Hyperliquid Strategies Inc",
-      "price": 14.09,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
-    "RXRX": {
-      "name": "Recursion Pharmaceuticals, Inc.",
-      "price": 3.83,
-      "time": "2026-09-18T21:08:03.779465+00:00"
-    },
-    "SECZ": {
-      "name": "Securitize Corp.",
-      "price": 9.99,
-      "time": "2026-09-18T18:30:09.540233+00:00"
+    "MX": {
+      "name": "Magnachip Semiconductor Corpora",
+      "price": 3.24,
+      "time": "2026-09-21T14:10:54.087976+00:00"
     }
   }
 }
