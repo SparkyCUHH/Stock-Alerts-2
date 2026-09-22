@@ -1,14 +1,34 @@
 {
   "alerted": {
+    "ABSI": {
+      "name": "Absci Corporation",
+      "price": 10.71,
+      "time": "2026-09-22T22:11:03.827435+00:00"
+    },
+    "ASPN": {
+      "name": "Aspen Aerogels, Inc.",
+      "price": 5.48,
+      "time": "2026-09-22T22:11:03.827435+00:00"
+    },
     "BFLY": {
       "name": "Butterfly Network, Inc.",
       "price": 9.875,
       "time": "2026-09-22T19:13:24.070620+00:00"
     },
-    "OPENZ": {
-      "name": "Opendoor Technologies Inc.",
-      "price": 0.1393,
-      "time": "2026-09-22T19:13:24.070620+00:00"
+    "CTKB": {
+      "name": "Cytek Biosciences, Inc.",
+      "price": 5.71,
+      "time": "2026-09-22T22:11:03.827435+00:00"
+    },
+    "DNA": {
+      "name": "Ginkgo Bioworks Holdings, Inc.",
+      "price": 9.37,
+      "time": "2026-09-22T22:11:03.827435+00:00"
+    },
+    "KRO": {
+      "name": "Kronos Worldwide Inc",
+      "price": 8.58,
+      "time": "2026-09-22T22:11:03.827435+00:00"
     },
     "RSKD": {
       "name": "Riskified Ltd.",
