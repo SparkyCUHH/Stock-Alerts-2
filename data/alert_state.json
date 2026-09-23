@@ -1,3 +1,19 @@
 {
-  "alerted": {}
+  "alerted": {
+    "EGHT": {
+      "name": "8x8 Inc",
+      "price": 2.295,
+      "time": "2026-09-23T18:35:02.828090+00:00"
+    },
+    "NNBR": {
+      "name": "NN, Inc.",
+      "price": 3.86,
+      "time": "2026-09-23T18:35:02.828090+00:00"
+    },
+    "SRFM": {
+      "name": "Surf Air Mobility Inc.",
+      "price": 0.9249,
+      "time": "2026-09-23T18:35:02.828090+00:00"
+    }
+  }
 }
