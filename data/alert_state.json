@@ -1,29 +1,3 @@
 {
-  "alerted": {
-    "DNA": {
-      "name": "Ginkgo Bioworks Holdings, Inc.",
-      "price": 10.25,
-      "time": "2026-09-24T21:07:21.034584+00:00"
-    },
-    "LU": {
-      "name": "Lufax Holding Ltd",
-      "price": 1.385,
-      "time": "2026-09-24T17:58:09.610228+00:00"
-    },
-    "PRGO": {
-      "name": "Perrigo Company plc",
-      "price": 14.73,
-      "time": "2026-09-24T17:58:09.610228+00:00"
-    },
-    "RSKD": {
-      "name": "Riskified Ltd.",
-      "price": 7.855,
-      "time": "2026-09-24T17:58:09.610228+00:00"
-    },
-    "UXIN": {
-      "name": "Uxin Limited",
-      "price": 1.3008,
-      "time": "2026-09-24T13:44:38.218936+00:00"
-    }
-  }
+  "alerted": {}
 }
