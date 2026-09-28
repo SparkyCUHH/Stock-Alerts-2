@@ -1,3 +1,34 @@
 {
-  "alerted": {}
+  "alerted": {
+    "AMC": {
+      "name": "AMC Entertainment Holdings, Inc",
+      "price": 3.275,
+      "time": "2026-09-28T19:49:23.812438+00:00"
+    },
+    "CANG": {
+      "name": "Cango Inc.",
+      "price": 2.295,
+      "time": "2026-09-28T19:49:23.812438+00:00"
+    },
+    "KNDI": {
+      "name": "Kandi Technologies Group, Inc.",
+      "price": 0.7867,
+      "time": "2026-09-28T19:49:23.812438+00:00"
+    },
+    "LFCR": {
+      "name": "Lifecore Biomedical, Inc.",
+      "price": 6.55,
+      "time": "2026-09-28T19:49:23.812438+00:00"
+    },
+    "MX": {
+      "name": "Magnachip Semiconductor Corpora",
+      "price": 3.815,
+      "time": "2026-09-28T19:49:23.812438+00:00"
+    },
+    "PACB": {
+      "name": "Pacific Biosciences of Californ",
+      "price": 1.7308,
+      "time": "2026-09-28T19:49:23.812438+00:00"
+    }
+  }
 }
