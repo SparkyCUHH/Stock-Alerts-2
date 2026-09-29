@@ -1,34 +1,24 @@
 {
   "alerted": {
-    "AMC": {
-      "name": "AMC Entertainment Holdings, Inc",
-      "price": 3.275,
-      "time": "2026-09-28T19:49:23.812438+00:00"
+    "IOVA": {
+      "name": "Iovance Biotherapeutics, Inc.",
+      "price": 14.615,
+      "time": "2026-09-29T16:38:49.995603+00:00"
     },
-    "KNDI": {
-      "name": "Kandi Technologies Group, Inc.",
-      "price": 0.7867,
-      "time": "2026-09-28T19:49:23.812438+00:00"
+    "PWP": {
+      "name": "Perella Weinberg Partners",
+      "price": 16.81,
+      "time": "2026-09-29T16:38:49.995603+00:00"
     },
-    "LFCR": {
-      "name": "Lifecore Biomedical, Inc.",
-      "price": 6.55,
-      "time": "2026-09-28T19:49:23.812438+00:00"
+    "SANG": {
+      "name": "Sangoma Technologies Corporatio",
+      "price": 4.91,
+      "time": "2026-09-29T16:38:49.995603+00:00"
     },
-    "MX": {
-      "name": "Magnachip Semiconductor Corpora",
-      "price": 3.815,
-      "time": "2026-09-28T19:49:23.812438+00:00"
-    },
-    "PACB": {
-      "name": "Pacific Biosciences of Californ",
-      "price": 1.7308,
-      "time": "2026-09-28T19:49:23.812438+00:00"
-    },
-    "SJT": {
-      "name": "San Juan Basin Royalty Trust",
-      "price": 3.72,
-      "time": "2026-09-28T23:58:38.075670+00:00"
+    "SMMT": {
+      "name": "Summit Therapeutics Inc.",
+      "price": 16.3199,
+      "time": "2026-09-29T16:38:49.995603+00:00"
     }
   }
 }
