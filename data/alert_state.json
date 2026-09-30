@@ -1,19 +1,9 @@
 {
   "alerted": {
-    "DNA": {
-      "name": "Ginkgo Bioworks Holdings, Inc.",
-      "price": 11.96,
-      "time": "2026-09-29T21:01:12.337471+00:00"
-    },
     "IOVA": {
       "name": "Iovance Biotherapeutics, Inc.",
       "price": 14.615,
       "time": "2026-09-29T16:38:49.995603+00:00"
-    },
-    "PACB": {
-      "name": "Pacific Biosciences of Californ",
-      "price": 1.83,
-      "time": "2026-09-29T21:01:12.337471+00:00"
     },
     "PWP": {
       "name": "Perella Weinberg Partners",
