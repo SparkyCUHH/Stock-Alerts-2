@@ -1,29 +1,24 @@
 {
   "alerted": {
-    "IOVA": {
-      "name": "Iovance Biotherapeutics, Inc.",
-      "price": 14.615,
-      "time": "2026-09-29T16:38:49.995603+00:00"
+    "CAPR": {
+      "name": "Capricor Therapeutics, Inc.",
+      "price": 9.595,
+      "time": "2026-09-30T16:53:29.848175+00:00"
     },
-    "PWP": {
-      "name": "Perella Weinberg Partners",
-      "price": 16.81,
-      "time": "2026-09-29T16:38:49.995603+00:00"
+    "PACB": {
+      "name": "Pacific Biosciences of Californ",
+      "price": 2.4009,
+      "time": "2026-09-30T16:53:29.848175+00:00"
     },
-    "SANG": {
-      "name": "Sangoma Technologies Corporatio",
-      "price": 4.91,
-      "time": "2026-09-29T16:38:49.995603+00:00"
+    "PMVP": {
+      "name": "PMV Pharmaceuticals, Inc.",
+      "price": 1.605,
+      "time": "2026-09-30T16:53:29.848175+00:00"
     },
-    "SMMT": {
-      "name": "Summit Therapeutics Inc.",
-      "price": 16.3199,
-      "time": "2026-09-29T16:38:49.995603+00:00"
-    },
-    "TEAD": {
-      "name": "Teads Holding Co.",
-      "price": 0.5148,
-      "time": "2026-09-29T21:01:12.337471+00:00"
+    "TGE": {
+      "name": "The Generation Essentials Group",
+      "price": 1.45,
+      "time": "2026-09-30T16:53:29.848175+00:00"
     }
   }
 }
