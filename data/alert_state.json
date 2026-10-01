@@ -10,6 +10,11 @@
       "price": 11.43,
       "time": "2026-10-01T19:00:39.416029+00:00"
     },
+    "INGN": {
+      "name": "Inogen, Inc",
+      "price": 5.98,
+      "time": "2026-10-01T23:05:47.846776+00:00"
+    },
     "INSG": {
       "name": "Inseego Corp.",
       "price": 4.355,
@@ -20,6 +25,11 @@
       "price": 15.925,
       "time": "2026-10-01T19:00:39.416029+00:00"
     },
+    "PACB": {
+      "name": "Pacific Biosciences of Californ",
+      "price": 2.51,
+      "time": "2026-10-01T23:05:47.846776+00:00"
+    },
     "SES": {
       "name": "SES AI Corporation",
       "price": 0.7849,
@@ -29,6 +39,11 @@
       "name": "USA TODAY Co., Inc.",
       "price": 6.895,
       "time": "2026-10-01T19:00:39.416029+00:00"
+    },
+    "TTEC": {
+      "name": "TTEC Holdings, Inc.",
+      "price": 1.485,
+      "time": "2026-10-01T23:05:47.846776+00:00"
     },
     "VIOT": {
       "name": "Viomi Technology Co., Ltd",
