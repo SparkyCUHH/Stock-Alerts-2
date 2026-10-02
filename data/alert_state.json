@@ -1,5 +1,15 @@
 {
   "alerted": {
+    "FEAM": {
+      "name": "5E Advanced Materials, Inc.",
+      "price": 3.88,
+      "time": "2026-10-02T23:13:06.152708+00:00"
+    },
+    "IBRX": {
+      "name": "ImmunityBio, Inc.",
+      "price": 10.285,
+      "time": "2026-10-02T23:13:06.152708+00:00"
+    },
     "NNBR": {
       "name": "NN, Inc.",
       "price": 4.55,
