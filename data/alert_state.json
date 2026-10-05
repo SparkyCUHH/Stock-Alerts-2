@@ -1,19 +1,59 @@
 {
   "alerted": {
-    "FEAM": {
-      "name": "5E Advanced Materials, Inc.",
-      "price": 3.88,
-      "time": "2026-10-02T23:13:06.152708+00:00"
+    "ALEC": {
+      "name": "Alector, Inc.",
+      "price": 2.1801,
+      "time": "2026-10-05T15:54:09.190842+00:00"
     },
-    "IBRX": {
-      "name": "ImmunityBio, Inc.",
-      "price": 10.285,
-      "time": "2026-10-02T23:13:06.152708+00:00"
+    "BBD": {
+      "name": "Banco Bradesco Sa",
+      "price": 4.345,
+      "time": "2026-10-05T15:54:09.190842+00:00"
     },
-    "NNBR": {
-      "name": "NN, Inc.",
-      "price": 4.55,
-      "time": "2026-10-02T19:34:18.145374+00:00"
+    "BCYC": {
+      "name": "Bicycle Therapeutics plc",
+      "price": 3.925,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "CIG": {
+      "name": "Comp En De Mn Cemig",
+      "price": 2.39,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "ELPC": {
+      "name": "Companhia Paranaense de Energia",
+      "price": 14.19,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "INTR": {
+      "name": "Inter & Co. Inc.",
+      "price": 6.81,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "ITUB": {
+      "name": "Itau Unibanco Banco Holding SA",
+      "price": 9.97,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "PAGS": {
+      "name": "PagSeguro Digital Ltd.",
+      "price": 10.975,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "SBS": {
+      "name": "Companhia de saneamento Basico ",
+      "price": 6.32,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "SID": {
+      "name": "Companhia Siderurgica Nacional ",
+      "price": 1.245,
+      "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "STNE": {
+      "name": "StoneCo Ltd.",
+      "price": 11.835,
+      "time": "2026-10-05T15:54:09.190842+00:00"
     }
   }
 }
