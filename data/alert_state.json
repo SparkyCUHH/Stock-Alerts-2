@@ -1,9 +1,19 @@
 {
   "alerted": {
-    "ALEC": {
-      "name": "Alector, Inc.",
-      "price": 2.1801,
-      "time": "2026-10-05T15:54:09.190842+00:00"
+    "ABEV": {
+      "name": "Ambev S.A.",
+      "price": 3.25,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "ALVO": {
+      "name": "Alvotech",
+      "price": 6.11,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "ARCO": {
+      "name": "Arcos Dorados Holdings Inc.",
+      "price": 8.1,
+      "time": "2026-10-05T22:15:16.095969+00:00"
     },
     "BBD": {
       "name": "Banco Bradesco Sa",
@@ -20,6 +30,21 @@
       "price": 2.39,
       "time": "2026-10-05T15:54:09.190842+00:00"
     },
+    "DNA": {
+      "name": "Ginkgo Bioworks Holdings, Inc.",
+      "price": 14.98,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "DXC": {
+      "name": "DXC Technology Company",
+      "price": 11.66,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "EBS": {
+      "name": "Emergent BioSolutions Inc.",
+      "price": 7.24,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
     "ELPC": {
       "name": "Companhia Paranaense de Energia",
       "price": 14.19,
@@ -35,10 +60,35 @@
       "price": 9.97,
       "time": "2026-10-05T15:54:09.190842+00:00"
     },
+    "NU": {
+      "name": "Nu Holdings Ltd.",
+      "price": 15.18,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "NVAX": {
+      "name": "Novavax, Inc.",
+      "price": 12.56,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
     "PAGS": {
       "name": "PagSeguro Digital Ltd.",
       "price": 10.975,
       "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "PAX": {
+      "name": "Patria Investments Limited",
+      "price": 11.1,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "PICS": {
+      "name": "PicS N.V.",
+      "price": 11.62,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "RXRX": {
+      "name": "Recursion Pharmaceuticals, Inc.",
+      "price": 4.78,
+      "time": "2026-10-05T22:15:16.095969+00:00"
     },
     "SBS": {
       "name": "Companhia de saneamento Basico ",
@@ -54,6 +104,16 @@
       "name": "StoneCo Ltd.",
       "price": 11.835,
       "time": "2026-10-05T15:54:09.190842+00:00"
+    },
+    "TIMB": {
+      "name": "TIM S.A.",
+      "price": 19.3,
+      "time": "2026-10-05T22:15:16.095969+00:00"
+    },
+    "VIV": {
+      "name": "Telefonica Brasil S.A.",
+      "price": 12.62,
+      "time": "2026-10-05T22:15:16.095969+00:00"
     }
   }
 }
