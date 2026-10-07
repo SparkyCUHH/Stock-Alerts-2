@@ -1,9 +1,19 @@
 {
   "alerted": {
+    "BAK": {
+      "name": "Braskem SA",
+      "price": 1.77,
+      "time": "2026-10-07T23:23:07.071998+00:00"
+    },
     "CANG": {
       "name": "Cango Inc.",
       "price": 3.62,
       "time": "2026-10-07T18:51:13.196464+00:00"
+    },
+    "DSP": {
+      "name": "Viant Technology Inc.",
+      "price": 12.78,
+      "time": "2026-10-07T23:23:07.071998+00:00"
     }
   }
 }
