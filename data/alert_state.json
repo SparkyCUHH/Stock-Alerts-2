@@ -1,3 +1,14 @@
 {
-  "alerted": {}
+  "alerted": {
+    "MNSO": {
+      "name": "MINISO Group Holding Limited",
+      "price": 9.65,
+      "time": "2026-10-09T19:42:42.893601+00:00"
+    },
+    "SVC": {
+      "name": "Service Properties Trust",
+      "price": 6.925,
+      "time": "2026-10-09T19:42:42.893601+00:00"
+    }
+  }
 }
