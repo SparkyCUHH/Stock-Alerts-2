@@ -1,19 +1,9 @@
 {
   "alerted": {
-    "CCC": {
-      "name": "CCC Intelligent Solutions Holdi",
-      "price": 7.02,
-      "time": "2026-10-09T23:33:02.636742+00:00"
-    },
     "MNSO": {
       "name": "MINISO Group Holding Limited",
       "price": 9.65,
       "time": "2026-10-09T19:42:42.893601+00:00"
-    },
-    "NVAX": {
-      "name": "Novavax, Inc.",
-      "price": 12.75,
-      "time": "2026-10-09T23:33:02.636742+00:00"
     },
     "SVC": {
       "name": "Service Properties Trust",
