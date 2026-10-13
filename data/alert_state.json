@@ -9,6 +9,16 @@
       "name": "Cango Inc.",
       "price": 3.4503,
       "time": "2026-10-13T18:19:55.765295+00:00"
+    },
+    "GFR": {
+      "name": "Greenfire Resources Ltd.",
+      "price": 6.78,
+      "time": "2026-10-13T22:55:16.026798+00:00"
+    },
+    "PTLO": {
+      "name": "Portillo's Inc.",
+      "price": 4.56,
+      "time": "2026-10-13T22:55:16.026798+00:00"
     }
   }
 }
