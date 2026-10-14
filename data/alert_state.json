@@ -1,24 +1,14 @@
 {
   "alerted": {
-    "BMBL": {
-      "name": "Bumble Inc.",
-      "price": 3.8,
-      "time": "2026-10-12T23:46:42.522359+00:00"
-    },
     "CANG": {
       "name": "Cango Inc.",
       "price": 3.4503,
       "time": "2026-10-13T18:19:55.765295+00:00"
     },
-    "GFR": {
-      "name": "Greenfire Resources Ltd.",
-      "price": 6.78,
-      "time": "2026-10-13T22:55:16.026798+00:00"
-    },
-    "PTLO": {
-      "name": "Portillo's Inc.",
-      "price": 4.56,
-      "time": "2026-10-13T22:55:16.026798+00:00"
+    "MXCT": {
+      "name": "MaxCyte, Inc.",
+      "price": 1.2684,
+      "time": "2026-10-14T17:12:21.603370+00:00"
     }
   }
 }
