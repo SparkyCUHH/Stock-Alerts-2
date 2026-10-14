@@ -1,14 +1,14 @@
 {
   "alerted": {
-    "CANG": {
-      "name": "Cango Inc.",
-      "price": 3.4503,
-      "time": "2026-10-13T18:19:55.765295+00:00"
-    },
     "MXCT": {
       "name": "MaxCyte, Inc.",
       "price": 1.2684,
       "time": "2026-10-14T17:12:21.603370+00:00"
+    },
+    "TV": {
+      "name": "Grupo Televisa S.A.B.",
+      "price": 2.37,
+      "time": "2026-10-14T20:42:25.590973+00:00"
     }
   }
 }
