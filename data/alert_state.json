@@ -1,14 +1,19 @@
 {
   "alerted": {
-    "MXCT": {
-      "name": "MaxCyte, Inc.",
-      "price": 1.2684,
-      "time": "2026-10-14T17:12:21.603370+00:00"
+    "ERIC": {
+      "name": "Ericsson",
+      "price": 10.425,
+      "time": "2026-10-15T15:46:06.727496+00:00"
     },
-    "TV": {
-      "name": "Grupo Televisa S.A.B.",
-      "price": 2.37,
-      "time": "2026-10-14T20:42:25.590973+00:00"
+    "OPK": {
+      "name": "Opko Health, Inc.",
+      "price": 1.6,
+      "time": "2026-10-15T15:46:06.727496+00:00"
+    },
+    "SEATW": {
+      "name": "Vivid Seats Inc. Warrant",
+      "price": 0.0277,
+      "time": "2026-10-15T15:46:06.727496+00:00"
     }
   }
 }
