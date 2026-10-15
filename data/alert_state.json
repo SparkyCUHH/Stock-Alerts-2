@@ -5,10 +5,20 @@
       "price": 10.425,
       "time": "2026-10-15T15:46:06.727496+00:00"
     },
+    "MH": {
+      "name": "McGraw Hill, Inc.",
+      "price": 14.2,
+      "time": "2026-10-15T22:32:37.706573+00:00"
+    },
     "OPK": {
       "name": "Opko Health, Inc.",
       "price": 1.6,
       "time": "2026-10-15T15:46:06.727496+00:00"
+    },
+    "REAL": {
+      "name": "The RealReal, Inc.",
+      "price": 10.54,
+      "time": "2026-10-15T22:32:37.706573+00:00"
     },
     "RGC": {
       "name": "Regencell Bioscience Holdings L",
