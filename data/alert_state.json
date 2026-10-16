@@ -1,5 +1,10 @@
 {
   "alerted": {
+    "ANGI": {
+      "name": "Angi Inc.",
+      "price": 6.46,
+      "time": "2026-10-16T00:42:05.929032+00:00"
+    },
     "ERIC": {
       "name": "Ericsson",
       "price": 10.425,
