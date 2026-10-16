@@ -1,14 +1,19 @@
 {
   "alerted": {
-    "OPENL": {
-      "name": "Opendoor Technologies Inc.",
-      "price": 0.0918,
-      "time": "2026-10-16T14:17:32.668814+00:00"
-    },
     "OPENW": {
       "name": "Opendoor Technologies Inc.",
       "price": 0.1735,
       "time": "2026-10-16T14:17:32.668814+00:00"
+    },
+    "SEATW": {
+      "name": "Vivid Seats Inc. Warrant",
+      "price": 0.0244,
+      "time": "2026-10-16T18:07:17.400467+00:00"
+    },
+    "SITC": {
+      "name": "SITE Centers Corp.",
+      "price": 3.4472,
+      "time": "2026-10-16T18:07:17.400467+00:00"
     }
   }
 }
