@@ -1,9 +1,14 @@
 {
   "alerted": {
-    "SITC": {
-      "name": "SITE Centers Corp.",
-      "price": 3.4472,
-      "time": "2026-10-16T18:07:17.400467+00:00"
+    "CLF": {
+      "name": "Cleveland-Cliffs Inc.",
+      "price": 14.215,
+      "time": "2026-10-19T19:01:38.059468+00:00"
+    },
+    "DH": {
+      "name": "Definitive Healthcare Corp.",
+      "price": 1.1,
+      "time": "2026-10-19T19:01:38.059468+00:00"
     }
   }
 }
