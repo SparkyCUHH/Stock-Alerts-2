@@ -1,14 +1,9 @@
 {
   "alerted": {
-    "CLF": {
-      "name": "Cleveland-Cliffs Inc.",
-      "price": 14.215,
-      "time": "2026-10-19T19:01:38.059468+00:00"
-    },
-    "DH": {
-      "name": "Definitive Healthcare Corp.",
-      "price": 1.1,
-      "time": "2026-10-19T19:01:38.059468+00:00"
+    "MYGN": {
+      "name": "Myriad Genetics, Inc.",
+      "price": 5.925,
+      "time": "2026-10-20T15:49:37.901646+00:00"
     }
   }
 }
