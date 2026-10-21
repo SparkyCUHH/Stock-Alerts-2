@@ -4,6 +4,11 @@
       "name": "Ashford Hospitality Trust Inc",
       "price": 2.61,
       "time": "2026-10-21T15:33:19.493055+00:00"
+    },
+    "KYIV": {
+      "name": "Kyivstar Group Ltd.",
+      "price": 13.89,
+      "time": "2026-10-21T19:32:37.697059+00:00"
     }
   }
 }
