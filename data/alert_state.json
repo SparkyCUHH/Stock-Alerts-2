@@ -1,44 +1,9 @@
 {
   "alerted": {
-    "BDTX": {
-      "name": "Black Diamond Therapeutics, Inc",
-      "price": 2.12,
-      "time": "2026-10-20T19:39:34.349330+00:00"
-    },
-    "KVYO": {
-      "name": "Klaviyo, Inc. Series A",
-      "price": 19.61,
-      "time": "2026-10-20T22:38:27.160467+00:00"
-    },
-    "LI": {
-      "name": "Li Auto Inc.",
-      "price": 11.93,
-      "time": "2026-10-20T22:38:27.160467+00:00"
-    },
-    "LION": {
-      "name": "Lionsgate Studios Corp",
-      "price": 12.211,
-      "time": "2026-10-20T19:39:34.349330+00:00"
-    },
-    "MYGN": {
-      "name": "Myriad Genetics, Inc.",
-      "price": 5.925,
-      "time": "2026-10-20T15:49:37.901646+00:00"
-    },
-    "PEPG": {
-      "name": "PepGen Inc.",
-      "price": 2.865,
-      "time": "2026-10-20T19:39:34.349330+00:00"
-    },
-    "SGRY": {
-      "name": "Surgery Partners, Inc.",
-      "price": 15.49,
-      "time": "2026-10-20T22:38:27.160467+00:00"
-    },
-    "WIT": {
-      "name": "Wipro Limited",
-      "price": 2.055,
-      "time": "2026-10-20T19:39:34.349330+00:00"
+    "AHT": {
+      "name": "Ashford Hospitality Trust Inc",
+      "price": 2.61,
+      "time": "2026-10-21T15:33:19.493055+00:00"
     }
   }
 }
