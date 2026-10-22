@@ -1,19 +1,9 @@
 {
   "alerted": {
-    "AHT": {
-      "name": "Ashford Hospitality Trust Inc",
-      "price": 2.61,
-      "time": "2026-10-21T15:33:19.493055+00:00"
-    },
-    "KYIV": {
-      "name": "Kyivstar Group Ltd.",
-      "price": 13.89,
-      "time": "2026-10-21T19:32:37.697059+00:00"
-    },
-    "UIS": {
-      "name": "Unisys Corporation New",
-      "price": 2.38,
-      "time": "2026-10-21T22:41:17.372273+00:00"
+    "BHVN": {
+      "name": "Biohaven Ltd.",
+      "price": 14.791,
+      "time": "2026-10-22T15:35:29.199440+00:00"
     }
   }
 }
