@@ -1,3 +1,9 @@
 {
-  "alerted": {}
+  "alerted": {
+    "DOUG": {
+      "name": "Douglas Elliman Inc.",
+      "price": 1.6,
+      "time": "2026-10-23T19:20:43.132222+00:00"
+    }
+  }
 }
