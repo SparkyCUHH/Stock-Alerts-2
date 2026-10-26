@@ -1,29 +1,14 @@
 {
   "alerted": {
-    "CNDT": {
-      "name": "Conduent Incorporated",
-      "price": 1.79,
-      "time": "2026-10-23T22:25:24.864851+00:00"
+    "ABOS": {
+      "name": "Acumen Pharmaceuticals, Inc.",
+      "price": 2.36,
+      "time": "2026-10-26T19:27:09.036323+00:00"
     },
-    "DOUG": {
-      "name": "Douglas Elliman Inc.",
-      "price": 1.6,
-      "time": "2026-10-23T19:20:43.132222+00:00"
-    },
-    "ENVX": {
-      "name": "Enovix Corporation",
-      "price": 2.79,
-      "time": "2026-10-23T22:25:24.864851+00:00"
-    },
-    "OSUR": {
-      "name": "OraSure Technologies, Inc.",
-      "price": 4.13,
-      "time": "2026-10-23T22:25:24.864851+00:00"
-    },
-    "RITM": {
-      "name": "Rithm Capital Corp.",
-      "price": 9.39,
-      "time": "2026-10-23T22:25:24.864851+00:00"
+    "EAF": {
+      "name": "GrafTech International Ltd.",
+      "price": 10.2,
+      "time": "2026-10-26T19:27:09.036323+00:00"
     }
   }
 }
