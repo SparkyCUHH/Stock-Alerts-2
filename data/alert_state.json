@@ -9,6 +9,11 @@
       "name": "GrafTech International Ltd.",
       "price": 10.2,
       "time": "2026-10-26T19:27:09.036323+00:00"
+    },
+    "SRAD": {
+      "name": "Sportradar Group AG",
+      "price": 12.6,
+      "time": "2026-10-27T02:06:15.422213+00:00"
     }
   }
 }
