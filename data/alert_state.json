@@ -1,14 +1,49 @@
 {
   "alerted": {
+    "ADT": {
+      "name": "ADT Inc.",
+      "price": 7.365,
+      "time": "2026-10-28T19:38:10.524143+00:00"
+    },
+    "BHC": {
+      "name": "Bausch Health Companies Inc.",
+      "price": 6.765,
+      "time": "2026-10-28T19:38:10.524143+00:00"
+    },
     "BOOM": {
       "name": "DMC Global Inc.",
       "price": 7.17,
       "time": "2026-10-28T14:18:02.173488+00:00"
     },
+    "GENB": {
+      "name": "Generate Biomedicines, Inc.",
+      "price": 15.08,
+      "time": "2026-10-28T19:38:10.524143+00:00"
+    },
     "LUNG": {
       "name": "Pulmonx Corporation",
       "price": 2.7287,
       "time": "2026-10-28T14:18:02.173488+00:00"
+    },
+    "MIR": {
+      "name": "Mirion Technologies, Inc.",
+      "price": 16.49,
+      "time": "2026-10-28T19:38:10.524143+00:00"
+    },
+    "PACB": {
+      "name": "Pacific Biosciences of Californ",
+      "price": 2.855,
+      "time": "2026-10-28T19:38:10.524143+00:00"
+    },
+    "REPL": {
+      "name": "Replimune Group, Inc.",
+      "price": 16.195,
+      "time": "2026-10-28T19:38:10.524143+00:00"
+    },
+    "STLA": {
+      "name": "Stellantis N.V.",
+      "price": 4.6773,
+      "time": "2026-10-28T19:38:10.524143+00:00"
     },
     "WEN": {
       "name": "Wendy's Company (The)",
