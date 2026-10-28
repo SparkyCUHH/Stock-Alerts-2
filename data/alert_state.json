@@ -15,10 +15,20 @@
       "price": 7.17,
       "time": "2026-10-28T14:18:02.173488+00:00"
     },
+    "EDIT": {
+      "name": "Editas Medicine, Inc.",
+      "price": 2.95,
+      "time": "2026-10-28T23:30:21.399639+00:00"
+    },
     "GENB": {
       "name": "Generate Biomedicines, Inc.",
       "price": 15.08,
       "time": "2026-10-28T19:38:10.524143+00:00"
+    },
+    "HAYW": {
+      "name": "Hayward Holdings, Inc.",
+      "price": 14.79,
+      "time": "2026-10-28T23:30:21.399639+00:00"
     },
     "LUNG": {
       "name": "Pulmonx Corporation",
@@ -30,10 +40,20 @@
       "price": 16.49,
       "time": "2026-10-28T19:38:10.524143+00:00"
     },
+    "OCFC": {
+      "name": "OceanFirst Financial Corp.",
+      "price": 17.68,
+      "time": "2026-10-28T23:30:21.399639+00:00"
+    },
     "PACB": {
       "name": "Pacific Biosciences of Californ",
       "price": 2.855,
       "time": "2026-10-28T19:38:10.524143+00:00"
+    },
+    "RBBN": {
+      "name": "Ribbon Communications Inc.",
+      "price": 1.63,
+      "time": "2026-10-28T23:30:21.399639+00:00"
     },
     "REPL": {
       "name": "Replimune Group, Inc.",
@@ -44,6 +64,16 @@
       "name": "Stellantis N.V.",
       "price": 4.6773,
       "time": "2026-10-28T19:38:10.524143+00:00"
+    },
+    "TDOC": {
+      "name": "Teladoc Health, Inc.",
+      "price": 6.88,
+      "time": "2026-10-28T23:30:21.399639+00:00"
+    },
+    "ULCC": {
+      "name": "Frontier Group Holdings, Inc.",
+      "price": 6.17,
+      "time": "2026-10-28T23:30:21.399639+00:00"
     },
     "WEN": {
       "name": "Wendy's Company (The)",
