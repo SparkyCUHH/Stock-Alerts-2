@@ -1,24 +1,19 @@
 {
   "alerted": {
-    "CTOS": {
-      "name": "Custom Truck One Source, Inc.",
-      "price": 10.51,
-      "time": "2026-10-27T22:45:58.753581+00:00"
+    "BOOM": {
+      "name": "DMC Global Inc.",
+      "price": 7.17,
+      "time": "2026-10-28T14:18:02.173488+00:00"
     },
-    "EAF": {
-      "name": "GrafTech International Ltd.",
-      "price": 11.83,
-      "time": "2026-10-27T22:45:58.753581+00:00"
+    "LUNG": {
+      "name": "Pulmonx Corporation",
+      "price": 2.7287,
+      "time": "2026-10-28T14:18:02.173488+00:00"
     },
-    "MFIC": {
-      "name": "MidCap Financial Investment Cor",
-      "price": 10.26,
-      "time": "2026-10-28T01:45:59.113128+00:00"
-    },
-    "SOFI": {
-      "name": "SoFi Technologies, Inc.",
-      "price": 16.485,
-      "time": "2026-10-27T18:56:20.763970+00:00"
+    "WEN": {
+      "name": "Wendy's Company (The)",
+      "price": 7.055,
+      "time": "2026-10-28T14:18:02.173488+00:00"
     }
   }
 }
