@@ -1,59 +1,14 @@
 {
   "alerted": {
-    "ADT": {
-      "name": "ADT Inc.",
-      "price": 7.365,
-      "time": "2026-10-28T19:38:10.524143+00:00"
+    "ACCO": {
+      "name": "Acco Brands Corporation",
+      "price": 5.335,
+      "time": "2026-10-30T17:58:40.698262+00:00"
     },
-    "BHC": {
-      "name": "Bausch Health Companies Inc.",
-      "price": 6.765,
-      "time": "2026-10-28T19:38:10.524143+00:00"
-    },
-    "DBI": {
-      "name": "Designer Brands Inc.",
-      "price": 6.8,
-      "time": "2026-10-29T20:39:27.184043+00:00"
-    },
-    "FVRR": {
-      "name": "Fiverr International Ltd.",
-      "price": 9.05,
-      "time": "2026-10-29T20:39:27.184043+00:00"
-    },
-    "LUNG": {
-      "name": "Pulmonx Corporation",
-      "price": 2.7287,
-      "time": "2026-10-28T14:18:02.173488+00:00"
-    },
-    "MAX": {
-      "name": "MediaAlpha, Inc.",
-      "price": 14.13,
-      "time": "2026-10-29T20:39:27.184043+00:00"
-    },
-    "NCLH": {
-      "name": "Norwegian Cruise Line Holdings ",
-      "price": 18.22,
-      "time": "2026-10-29T20:39:27.184043+00:00"
-    },
-    "PURR": {
-      "name": "Hyperliquid Strategies Inc",
-      "price": 11.7,
-      "time": "2026-10-29T15:43:02.036804+00:00"
-    },
-    "STGW": {
-      "name": "Stagwell Inc.",
-      "price": 9.95,
-      "time": "2026-10-29T20:39:27.184043+00:00"
-    },
-    "TDOC": {
-      "name": "Teladoc Health, Inc.",
-      "price": 6.88,
-      "time": "2026-10-28T23:30:21.399639+00:00"
-    },
-    "UPBD": {
-      "name": "Upbound Group, Inc.",
-      "price": 19.98,
-      "time": "2026-10-29T20:39:27.184043+00:00"
+    "XPOF": {
+      "name": "Xponential Fitness, Inc.",
+      "price": 4.46,
+      "time": "2026-10-30T17:58:40.698262+00:00"
     }
   }
 }
