@@ -5,6 +5,21 @@
       "price": 5.335,
       "time": "2026-10-30T17:58:40.698262+00:00"
     },
+    "CPRI": {
+      "name": "Capri Holdings Limited",
+      "price": 18.68,
+      "time": "2026-10-30T21:57:06.417118+00:00"
+    },
+    "REAL": {
+      "name": "The RealReal, Inc.",
+      "price": 11.96,
+      "time": "2026-10-30T21:57:06.417118+00:00"
+    },
+    "STGW": {
+      "name": "Stagwell Inc.",
+      "price": 10.47,
+      "time": "2026-10-30T21:57:06.417118+00:00"
+    },
     "XPOF": {
       "name": "Xponential Fitness, Inc.",
       "price": 4.46,
