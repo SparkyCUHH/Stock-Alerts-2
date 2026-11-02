@@ -1,29 +1,39 @@
 {
   "alerted": {
-    "ACCO": {
-      "name": "Acco Brands Corporation",
-      "price": 5.335,
-      "time": "2026-10-30T17:58:40.698262+00:00"
+    "AHRT": {
+      "name": "AH Realty Trust, Inc.",
+      "price": 6.425,
+      "time": "2026-11-02T20:48:04.517648+00:00"
     },
-    "CPRI": {
-      "name": "Capri Holdings Limited",
-      "price": 18.68,
-      "time": "2026-10-30T21:57:06.417118+00:00"
+    "EVGO": {
+      "name": "EVgo Inc.",
+      "price": 1.8771,
+      "time": "2026-11-02T20:48:04.517648+00:00"
     },
-    "REAL": {
-      "name": "The RealReal, Inc.",
-      "price": 11.96,
-      "time": "2026-10-30T21:57:06.417118+00:00"
+    "GRFS": {
+      "name": "Grifols, S.A.",
+      "price": 8.525,
+      "time": "2026-11-02T20:48:04.517648+00:00"
     },
-    "STGW": {
-      "name": "Stagwell Inc.",
-      "price": 10.47,
-      "time": "2026-10-30T21:57:06.417118+00:00"
+    "NMRA": {
+      "name": "Neumora Therapeutics, Inc.",
+      "price": 0.5014,
+      "time": "2026-11-02T20:48:04.517648+00:00"
     },
-    "XPOF": {
-      "name": "Xponential Fitness, Inc.",
-      "price": 4.46,
-      "time": "2026-10-30T17:58:40.698262+00:00"
+    "NWL": {
+      "name": "Newell Brands Inc.",
+      "price": 5.955,
+      "time": "2026-11-02T20:48:04.517648+00:00"
+    },
+    "PERI": {
+      "name": "Perion Network Ltd",
+      "price": 11.41,
+      "time": "2026-11-02T20:48:04.517648+00:00"
+    },
+    "SRAD": {
+      "name": "Sportradar Group AG",
+      "price": 12.92,
+      "time": "2026-11-02T20:48:04.517648+00:00"
     }
   }
 }
