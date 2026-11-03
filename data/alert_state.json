@@ -1,3 +1,49 @@
 {
-  "alerted": {}
+  "alerted": {
+    "CLVT": {
+      "name": "Clarivate Plc",
+      "price": 2.09,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "CMCO": {
+      "name": "Columbus McKinnon Corporation",
+      "price": 18.15,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "CVGI": {
+      "name": "Commercial Vehicle Group, Inc.",
+      "price": 3.34,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "GPK": {
+      "name": "Graphic Packaging Holding Compa",
+      "price": 11.31,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "GRAB": {
+      "name": "Grab Holdings Limited",
+      "price": 3.12,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "HLF": {
+      "name": "Herbalife Ltd.",
+      "price": 14.38,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "NMRA": {
+      "name": "Neumora Therapeutics, Inc.",
+      "price": 0.5709,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "PEW": {
+      "name": "GrabAGun Digital Holdings Inc.",
+      "price": 2.14,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    },
+    "SRAD": {
+      "name": "Sportradar Group AG",
+      "price": 14.2,
+      "time": "2026-11-03T22:33:30.179200+00:00"
+    }
+  }
 }
