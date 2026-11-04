@@ -5,15 +5,80 @@
       "price": 12.655,
       "time": "2026-11-04T17:36:48.479323+00:00"
     },
+    "CAPR": {
+      "name": "Capricor Therapeutics, Inc.",
+      "price": 8.92,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "CPNG": {
+      "name": "Coupang, Inc.",
+      "price": 17.05,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
     "CSIQ": {
       "name": "Canadian Solar Inc.",
       "price": 11.12,
       "time": "2026-11-04T17:36:48.479323+00:00"
     },
+    "DRVN": {
+      "name": "Driven Brands Holdings Inc.",
+      "price": 11.91,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "EHTH": {
+      "name": "eHealth, Inc.",
+      "price": 0.6347,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "EQX": {
+      "name": "Equinox Gold Corp.",
+      "price": 11.28,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "HGTY": {
+      "name": "Hagerty, Inc.",
+      "price": 18.71,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
     "KD": {
       "name": "Kyndryl Holdings, Inc.",
       "price": 17.47,
       "time": "2026-11-04T17:36:48.479323+00:00"
+    },
+    "LBTYA": {
+      "name": "Liberty Global Ltd.",
+      "price": 9.58,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "LYFT": {
+      "name": "Lyft, Inc.",
+      "price": 18.74,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "SLDP": {
+      "name": "Solid Power, Inc.",
+      "price": 2.25,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "SVV": {
+      "name": "Savers Value Village, Inc.",
+      "price": 10.06,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "SWIM": {
+      "name": "Latham Group, Inc.",
+      "price": 8.18,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "TRIP": {
+      "name": "TripAdvisor, Inc.",
+      "price": 10.2,
+      "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "WOOF": {
+      "name": "Petco Health and Wellness Compa",
+      "price": 3.14,
+      "time": "2026-11-04T22:51:16.815045+00:00"
     }
   }
 }
