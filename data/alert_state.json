@@ -1,14 +1,24 @@
 {
   "alerted": {
-    "ALIT": {
-      "name": "Alight, Inc.",
-      "price": 12.655,
-      "time": "2026-11-04T17:36:48.479323+00:00"
+    "ANGI": {
+      "name": "Angi Inc.",
+      "price": 6.84,
+      "time": "2026-11-05T02:54:06.831069+00:00"
     },
     "CAPR": {
       "name": "Capricor Therapeutics, Inc.",
       "price": 8.92,
       "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "CARS": {
+      "name": "Cars.com Inc.",
+      "price": 12.75,
+      "time": "2026-11-05T02:54:06.831069+00:00"
+    },
+    "CMTG": {
+      "name": "Claros Mortgage Trust, Inc.",
+      "price": 1.85,
+      "time": "2026-11-05T02:54:06.831069+00:00"
     },
     "CPNG": {
       "name": "Coupang, Inc.",
@@ -40,6 +50,11 @@
       "price": 18.71,
       "time": "2026-11-04T22:51:16.815045+00:00"
     },
+    "HLLY": {
+      "name": "Holley Inc.",
+      "price": 2.9,
+      "time": "2026-11-05T02:54:06.831069+00:00"
+    },
     "KD": {
       "name": "Kyndryl Holdings, Inc.",
       "price": 17.47,
@@ -55,15 +70,35 @@
       "price": 18.74,
       "time": "2026-11-04T22:51:16.815045+00:00"
     },
+    "OPRT": {
+      "name": "Oportun Financial Corporation",
+      "price": 13.01,
+      "time": "2026-11-05T02:54:06.831069+00:00"
+    },
+    "PDM": {
+      "name": "Piedmont Realty Trust, Inc.",
+      "price": 10.07,
+      "time": "2026-11-05T02:54:06.831069+00:00"
+    },
     "SLDP": {
       "name": "Solid Power, Inc.",
       "price": 2.25,
       "time": "2026-11-04T22:51:16.815045+00:00"
     },
+    "SLQT": {
+      "name": "SelectQuote, Inc.",
+      "price": 0.4914,
+      "time": "2026-11-05T02:54:06.831069+00:00"
+    },
     "SVV": {
       "name": "Savers Value Village, Inc.",
       "price": 10.06,
       "time": "2026-11-04T22:51:16.815045+00:00"
+    },
+    "SWBI": {
+      "name": "Smith & Wesson Brands, Inc.",
+      "price": 14.49,
+      "time": "2026-11-05T02:54:06.831069+00:00"
     },
     "SWIM": {
       "name": "Latham Group, Inc.",
