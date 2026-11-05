@@ -10,20 +10,75 @@
       "price": 15.245,
       "time": "2026-11-05T17:57:41.517463+00:00"
     },
+    "BOBS": {
+      "name": "Bob's Discount Furniture, Inc.",
+      "price": 19.47,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
+    "CARS": {
+      "name": "Cars.com Inc.",
+      "price": 13.56,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
+    "CRNT": {
+      "name": "Ceragon Networks Ltd.",
+      "price": 2.11,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
     "DNUT": {
       "name": "Krispy Kreme, Inc.",
       "price": 4.9323,
       "time": "2026-11-05T17:57:41.517463+00:00"
+    },
+    "IRWD": {
+      "name": "Ironwood Pharmaceuticals, Inc.",
+      "price": 4.03,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
+    "ONT": {
+      "name": "Onterris, Inc.",
+      "price": 19.42,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
+    "PLTK": {
+      "name": "Playtika Holding Corp.",
+      "price": 2.31,
+      "time": "2026-11-05T23:12:41.840278+00:00"
     },
     "PTLO": {
       "name": "Portillo's Inc.",
       "price": 6.43,
       "time": "2026-11-05T17:57:41.517463+00:00"
     },
+    "RUN": {
+      "name": "Sunrun Inc.",
+      "price": 9.87,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
+    "TBI": {
+      "name": "TrueBlue, Inc.",
+      "price": 12.36,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
+    "VERX": {
+      "name": "Vertex, Inc.",
+      "price": 17.59,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
+    "WU": {
+      "name": "Western Union Company (The)",
+      "price": 7.02,
+      "time": "2026-11-05T23:12:41.840278+00:00"
+    },
     "XERS": {
       "name": "Xeris Biopharma Holdings, Inc.",
       "price": 13.16,
       "time": "2026-11-05T17:57:41.517463+00:00"
+    },
+    "XPER": {
+      "name": "Xperi Inc.",
+      "price": 5.71,
+      "time": "2026-11-05T23:12:41.840278+00:00"
     },
     "ZVIA": {
       "name": "Zevia PBC",
