@@ -1,19 +1,14 @@
 {
   "alerted": {
+    "ACRE": {
+      "name": "Ares Commercial Real Estate Cor",
+      "price": 3.65,
+      "time": "2026-11-07T15:27:45.023048+00:00"
+    },
     "ARDT": {
       "name": "Ardent Health, Inc.",
       "price": 15.245,
       "time": "2026-11-05T17:57:41.517463+00:00"
-    },
-    "ARHS": {
-      "name": "Arhaus, Inc.",
-      "price": 14.19,
-      "time": "2026-11-06T22:45:00.449176+00:00"
-    },
-    "CLAR": {
-      "name": "Clarus Corporation",
-      "price": 5.02,
-      "time": "2026-11-07T08:59:44.319653+00:00"
     },
     "CLNE": {
       "name": "Clean Energy Fuels Corp.",
@@ -30,11 +25,6 @@
       "price": 3.575,
       "time": "2026-11-06T17:59:18.582821+00:00"
     },
-    "GRNT": {
-      "name": "Granite Ridge Resources, Inc.",
-      "price": 5.29,
-      "time": "2026-11-06T22:45:00.449176+00:00"
-    },
     "LION": {
       "name": "Lionsgate Studios Corp",
       "price": 14.24,
@@ -45,20 +35,15 @@
       "price": 14.59,
       "time": "2026-11-06T22:45:00.449176+00:00"
     },
-    "ONL": {
-      "name": "Orion Properties Inc.",
-      "price": 2.69,
-      "time": "2026-11-07T08:59:44.319653+00:00"
-    },
-    "SPCE": {
-      "name": "Virgin Galactic Holdings, Inc.",
-      "price": 2.77,
-      "time": "2026-11-06T22:45:00.449176+00:00"
-    },
     "XERS": {
       "name": "Xeris Biopharma Holdings, Inc.",
       "price": 15.2,
       "time": "2026-11-06T22:45:00.449176+00:00"
+    },
+    "XPOF": {
+      "name": "Xponential Fitness, Inc.",
+      "price": 4.65,
+      "time": "2026-11-07T15:27:45.023048+00:00"
     }
   }
 }
