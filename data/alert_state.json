@@ -10,6 +10,11 @@
       "price": 14.19,
       "time": "2026-11-06T22:45:00.449176+00:00"
     },
+    "CLAR": {
+      "name": "Clarus Corporation",
+      "price": 5.02,
+      "time": "2026-11-07T08:59:44.319653+00:00"
+    },
     "CLNE": {
       "name": "Clean Energy Fuels Corp.",
       "price": 1.9196,
@@ -40,6 +45,11 @@
       "price": 14.59,
       "time": "2026-11-06T22:45:00.449176+00:00"
     },
+    "ONL": {
+      "name": "Orion Properties Inc.",
+      "price": 2.69,
+      "time": "2026-11-07T08:59:44.319653+00:00"
+    },
     "SPCE": {
       "name": "Virgin Galactic Holdings, Inc.",
       "price": 2.77,
@@ -49,11 +59,6 @@
       "name": "Xeris Biopharma Holdings, Inc.",
       "price": 15.2,
       "time": "2026-11-06T22:45:00.449176+00:00"
-    },
-    "XPOF": {
-      "name": "Xponential Fitness, Inc.",
-      "price": 4.65,
-      "time": "2026-11-07T02:23:48.377768+00:00"
     }
   }
 }
