@@ -1,49 +1,44 @@
 {
   "alerted": {
-    "ARDT": {
-      "name": "Ardent Health, Inc.",
-      "price": 15.245,
-      "time": "2026-11-05T17:57:41.517463+00:00"
+    "FRVO": {
+      "name": "Fervo Energy Company",
+      "price": 11.2899,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     },
-    "CLAR": {
-      "name": "Clarus Corporation",
-      "price": 5.02,
-      "time": "2026-11-09T10:23:50.139028+00:00"
+    "GTN": {
+      "name": "Gray Media, Inc.",
+      "price": 5.568,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     },
-    "CLNE": {
-      "name": "Clean Energy Fuels Corp.",
-      "price": 1.9196,
-      "time": "2026-11-06T17:59:18.582821+00:00"
+    "IRWD": {
+      "name": "Ironwood Pharmaceuticals, Inc.",
+      "price": 4.67,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     },
-    "CRNT": {
-      "name": "Ceragon Networks Ltd.",
-      "price": 2.28,
-      "time": "2026-11-06T22:45:00.449176+00:00"
+    "LFST": {
+      "name": "LifeStance Health Group, Inc.",
+      "price": 14.515,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     },
-    "GOGO": {
-      "name": "Gogo Inc.",
-      "price": 3.575,
-      "time": "2026-11-06T17:59:18.582821+00:00"
+    "QXO": {
+      "name": "QXO, Inc.",
+      "price": 13.745,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     },
-    "LION": {
-      "name": "Lionsgate Studios Corp",
-      "price": 14.24,
-      "time": "2026-11-06T22:45:00.449176+00:00"
+    "SSP": {
+      "name": "E.W. Scripps Company (The)",
+      "price": 3.535,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     },
-    "LYNX": {
-      "name": "Lyntris Inc.",
-      "price": 14.59,
-      "time": "2026-11-06T22:45:00.449176+00:00"
+    "TTD": {
+      "name": "The Trade Desk, Inc.",
+      "price": 15.075,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     },
-    "ONL": {
-      "name": "Orion Properties Inc.",
-      "price": 2.69,
-      "time": "2026-11-09T10:23:50.139028+00:00"
-    },
-    "XERS": {
-      "name": "Xeris Biopharma Holdings, Inc.",
-      "price": 15.2,
-      "time": "2026-11-06T22:45:00.449176+00:00"
+    "VIR": {
+      "name": "Vir Biotechnology, Inc.",
+      "price": 13.555,
+      "time": "2026-11-09T20:54:39.475055+00:00"
     }
   }
 }
