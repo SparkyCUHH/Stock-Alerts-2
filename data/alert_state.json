@@ -1,5 +1,15 @@
 {
   "alerted": {
+    "CSQR": {
+      "name": "Csquare, Inc.",
+      "price": 17.52,
+      "time": "2026-11-10T23:40:54.135197+00:00"
+    },
+    "DOUG": {
+      "name": "Douglas Elliman Inc.",
+      "price": 1.73,
+      "time": "2026-11-10T23:40:54.135197+00:00"
+    },
     "HUMA": {
       "name": "Humacyte, Inc.",
       "price": 0.5751,
@@ -8,11 +18,6 @@
     "PEPG": {
       "name": "PepGen Inc.",
       "price": 5.075,
-      "time": "2026-11-10T18:30:28.632314+00:00"
-    },
-    "SENS": {
-      "name": "Senseonics Holdings, Inc.",
-      "price": 10.615849,
       "time": "2026-11-10T18:30:28.632314+00:00"
     },
     "TTEC": {
