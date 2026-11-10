@@ -1,9 +1,24 @@
 {
   "alerted": {
+    "CRNT": {
+      "name": "Ceragon Networks Ltd.",
+      "price": 2.62,
+      "time": "2026-11-10T03:04:06.359758+00:00"
+    },
+    "DDI": {
+      "name": "DoubleDown Interactive Co., Ltd",
+      "price": 15.7,
+      "time": "2026-11-10T03:04:06.359758+00:00"
+    },
     "FRVO": {
       "name": "Fervo Energy Company",
       "price": 11.2899,
       "time": "2026-11-09T20:54:39.475055+00:00"
+    },
+    "GFR": {
+      "name": "Greenfire Resources Ltd.",
+      "price": 7.73,
+      "time": "2026-11-10T03:04:06.359758+00:00"
     },
     "GTN": {
       "name": "Gray Media, Inc.",
@@ -20,10 +35,20 @@
       "price": 14.515,
       "time": "2026-11-09T20:54:39.475055+00:00"
     },
+    "PTON": {
+      "name": "Peloton Interactive, Inc.",
+      "price": 5.95,
+      "time": "2026-11-10T03:04:06.359758+00:00"
+    },
     "QXO": {
       "name": "QXO, Inc.",
       "price": 13.745,
       "time": "2026-11-09T20:54:39.475055+00:00"
+    },
+    "SLDB": {
+      "name": "Solid Biosciences Inc.",
+      "price": 7.02,
+      "time": "2026-11-10T03:04:06.359758+00:00"
     },
     "SSP": {
       "name": "E.W. Scripps Company (The)",
@@ -34,6 +59,11 @@
       "name": "The Trade Desk, Inc.",
       "price": 15.075,
       "time": "2026-11-09T20:54:39.475055+00:00"
+    },
+    "UAMY": {
+      "name": "United States Antimony Corporat",
+      "price": 3.47,
+      "time": "2026-11-10T03:04:06.359758+00:00"
     },
     "VIR": {
       "name": "Vir Biotechnology, Inc.",
