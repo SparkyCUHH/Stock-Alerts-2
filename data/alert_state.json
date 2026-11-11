@@ -1,34 +1,24 @@
 {
   "alerted": {
-    "CSQR": {
-      "name": "Csquare, Inc.",
-      "price": 17.52,
-      "time": "2026-11-10T23:40:54.135197+00:00"
+    "ANGX": {
+      "name": "Angel Studios, Inc.",
+      "price": 4.265,
+      "time": "2026-11-11T18:04:41.868934+00:00"
     },
-    "DOUG": {
-      "name": "Douglas Elliman Inc.",
-      "price": 1.73,
-      "time": "2026-11-10T23:40:54.135197+00:00"
+    "BGS": {
+      "name": "B&G Foods, Inc.",
+      "price": 3.495,
+      "time": "2026-11-11T18:04:41.868934+00:00"
     },
-    "HUMA": {
-      "name": "Humacyte, Inc.",
-      "price": 0.5751,
-      "time": "2026-11-10T18:30:28.632314+00:00"
+    "FOSL": {
+      "name": "Fossil Group, Inc.",
+      "price": 9.985,
+      "time": "2026-11-11T18:04:41.868934+00:00"
     },
-    "PEPG": {
-      "name": "PepGen Inc.",
-      "price": 5.075,
-      "time": "2026-11-10T18:30:28.632314+00:00"
-    },
-    "TTEC": {
-      "name": "TTEC Holdings, Inc.",
-      "price": 2.3101,
-      "time": "2026-11-10T18:30:28.632314+00:00"
-    },
-    "ZIP": {
-      "name": "ZipRecruiter, Inc.",
-      "price": 5.83,
-      "time": "2026-11-10T18:30:28.632314+00:00"
+    "RSKD": {
+      "name": "Riskified Ltd.",
+      "price": 9.98,
+      "time": "2026-11-11T18:04:41.868934+00:00"
     }
   }
 }
