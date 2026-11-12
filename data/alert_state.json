@@ -10,15 +10,50 @@
       "price": 3.495,
       "time": "2026-11-11T18:04:41.868934+00:00"
     },
+    "CAPR": {
+      "name": "Capricor Therapeutics, Inc.",
+      "price": 11.22,
+      "time": "2026-11-12T00:31:44.330457+00:00"
+    },
+    "ERAS": {
+      "name": "Erasca, Inc.",
+      "price": 16.8,
+      "time": "2026-11-12T00:31:44.330457+00:00"
+    },
     "FOSL": {
       "name": "Fossil Group, Inc.",
       "price": 9.985,
       "time": "2026-11-11T18:04:41.868934+00:00"
     },
+    "GMRS": {
+      "name": "GMR Solutions Inc.",
+      "price": 11.76,
+      "time": "2026-11-12T00:31:44.330457+00:00"
+    },
+    "NRGV": {
+      "name": "Energy Vault Holdings, Inc.",
+      "price": 3.87,
+      "time": "2026-11-12T00:31:44.330457+00:00"
+    },
     "RSKD": {
       "name": "Riskified Ltd.",
       "price": 9.98,
       "time": "2026-11-11T18:04:41.868934+00:00"
+    },
+    "SABR": {
+      "name": "Sabre Corporation",
+      "price": 1.88,
+      "time": "2026-11-12T00:31:44.330457+00:00"
+    },
+    "SONO": {
+      "name": "Sonos, Inc.",
+      "price": 19.06,
+      "time": "2026-11-12T00:31:44.330457+00:00"
+    },
+    "TTEC": {
+      "name": "TTEC Holdings, Inc.",
+      "price": 2.67,
+      "time": "2026-11-12T00:31:44.330457+00:00"
     }
   }
 }
