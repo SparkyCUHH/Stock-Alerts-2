@@ -1,29 +1,14 @@
 {
   "alerted": {
-    "AVEX": {
-      "name": "AEVEX Corp.",
-      "price": 13.76,
-      "time": "2026-11-12T22:15:02.627670+00:00"
+    "NMAX": {
+      "name": "Newsmax, Inc.",
+      "price": 9.285,
+      "time": "2026-11-13T17:27:06.269801+00:00"
     },
-    "CHA": {
-      "name": "Chagee Holdings Limited",
-      "price": 13.51,
-      "time": "2026-11-12T22:15:02.627670+00:00"
-    },
-    "ICMB": {
-      "name": "Investcorp Credit Management BD",
-      "price": 0.9602,
-      "time": "2026-11-12T16:12:23.679761+00:00"
-    },
-    "LUNR": {
-      "name": "Intuitive Machines, Inc.",
-      "price": 13.03,
-      "time": "2026-11-12T22:15:02.627670+00:00"
-    },
-    "PLBL": {
-      "name": "Polibeli Group Ltd",
-      "price": 7.27,
-      "time": "2026-11-12T22:15:02.627670+00:00"
+    "WSE": {
+      "name": "Wise Group plc",
+      "price": 11.725,
+      "time": "2026-11-13T17:27:06.269801+00:00"
     }
   }
 }
