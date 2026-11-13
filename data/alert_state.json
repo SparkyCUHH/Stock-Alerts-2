@@ -1,13 +1,23 @@
 {
   "alerted": {
+    "CHA": {
+      "name": "Chagee Holdings Limited",
+      "price": 14.37,
+      "time": "2026-11-13T22:45:05.801781+00:00"
+    },
+    "HAWK": {
+      "name": "HawkEye 360, Inc.",
+      "price": 18.16,
+      "time": "2026-11-13T22:45:05.801781+00:00"
+    },
+    "KLAR": {
+      "name": "Klarna Group plc",
+      "price": 13.8,
+      "time": "2026-11-13T22:45:05.801781+00:00"
+    },
     "NMAX": {
       "name": "Newsmax, Inc.",
       "price": 9.285,
-      "time": "2026-11-13T17:27:06.269801+00:00"
-    },
-    "WSE": {
-      "name": "Wise Group plc",
-      "price": 11.725,
       "time": "2026-11-13T17:27:06.269801+00:00"
     }
   }
