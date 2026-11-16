@@ -1,19 +1,9 @@
 {
   "alerted": {
-    "HAWK": {
-      "name": "HawkEye 360, Inc.",
-      "price": 18.16,
-      "time": "2026-11-13T22:45:05.801781+00:00"
-    },
-    "KLAR": {
-      "name": "Klarna Group plc",
-      "price": 13.8,
-      "time": "2026-11-13T22:45:05.801781+00:00"
-    },
-    "NMAX": {
-      "name": "Newsmax, Inc.",
-      "price": 9.285,
-      "time": "2026-11-13T17:27:06.269801+00:00"
+    "TU": {
+      "name": "Telus Corporation",
+      "price": 9.485,
+      "time": "2026-11-16T19:53:34.234409+00:00"
     }
   }
 }
