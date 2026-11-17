@@ -1,5 +1,10 @@
 {
   "alerted": {
+    "CRTO": {
+      "name": "Criteo S.A.",
+      "price": 19.57,
+      "time": "2026-11-17T02:41:29.159312+00:00"
+    },
     "TU": {
       "name": "Telus Corporation",
       "price": 9.485,
