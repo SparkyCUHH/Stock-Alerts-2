@@ -1,3 +1,24 @@
 {
-  "alerted": {}
+  "alerted": {
+    "BRBR": {
+      "name": "BellRing Brands, Inc.",
+      "price": 15.11,
+      "time": "2026-11-19T23:20:20.857689+00:00"
+    },
+    "PMVP": {
+      "name": "PMV Pharmaceuticals, Inc.",
+      "price": 1.31,
+      "time": "2026-11-19T23:20:20.857689+00:00"
+    },
+    "SVRA": {
+      "name": "Savara, Inc.",
+      "price": 5.21,
+      "time": "2026-11-19T23:20:20.857689+00:00"
+    },
+    "TU": {
+      "name": "Telus Corporation",
+      "price": 10.78,
+      "time": "2026-11-19T23:20:20.857689+00:00"
+    }
+  }
 }
