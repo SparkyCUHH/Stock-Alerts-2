@@ -1,19 +1,9 @@
 {
   "alerted": {
-    "BRBR": {
-      "name": "BellRing Brands, Inc.",
-      "price": 15.11,
-      "time": "2026-11-19T23:20:20.857689+00:00"
-    },
-    "PMVP": {
-      "name": "PMV Pharmaceuticals, Inc.",
-      "price": 1.31,
-      "time": "2026-11-19T23:20:20.857689+00:00"
-    },
-    "SVRA": {
-      "name": "Savara, Inc.",
-      "price": 5.21,
-      "time": "2026-11-19T23:20:20.857689+00:00"
+    "PYXS": {
+      "name": "Pyxis Oncology, Inc.",
+      "price": 1.795,
+      "time": "2026-11-20T20:44:51.056996+00:00"
     }
   }
 }
