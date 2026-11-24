@@ -1,9 +1,14 @@
 {
   "alerted": {
-    "OTLY": {
-      "name": "Oatly Group AB",
-      "price": 14.5,
-      "time": "2026-11-24T06:13:39.968577+00:00"
+    "ALTG": {
+      "name": "Alta Equipment Group Inc.",
+      "price": 6.17,
+      "time": "2026-11-24T17:48:05.010874+00:00"
+    },
+    "EMBC": {
+      "name": "Embecta Corp.",
+      "price": 8.195,
+      "time": "2026-11-24T17:48:05.010874+00:00"
     }
   }
 }
