@@ -1,14 +1,59 @@
 {
   "alerted": {
+    "ALEC": {
+      "name": "Alector, Inc.",
+      "price": 2.71,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
     "ALTG": {
       "name": "Alta Equipment Group Inc.",
       "price": 6.17,
       "time": "2026-11-24T17:48:05.010874+00:00"
     },
+    "ALXO": {
+      "name": "ALX Oncology Holdings Inc.",
+      "price": 1.52,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
+    "BMEA": {
+      "name": "Biomea Fusion, Inc.",
+      "price": 0.7774,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
+    "CCCC": {
+      "name": "C4 Therapeutics, Inc.",
+      "price": 3.1,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
     "EMBC": {
       "name": "Embecta Corp.",
       "price": 8.195,
       "time": "2026-11-24T17:48:05.010874+00:00"
+    },
+    "LAB": {
+      "name": "Standard BioTools Inc.",
+      "price": 0.641,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
+    "LVWR": {
+      "name": "LiveWire Group, Inc.",
+      "price": 1.87,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
+    "MMED": {
+      "name": "MiniMed Group, Inc.",
+      "price": 19.07,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
+    "PRLD": {
+      "name": "Prelude Therapeutics Incorporat",
+      "price": 4.5,
+      "time": "2026-11-25T01:38:24.150131+00:00"
+    },
+    "TSHA": {
+      "name": "Taysha Gene Therapies, Inc.",
+      "price": 4.08,
+      "time": "2026-11-25T01:38:24.150131+00:00"
     }
   }
 }
