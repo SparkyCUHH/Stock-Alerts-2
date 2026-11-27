@@ -1,19 +1,9 @@
 {
   "alerted": {
-    "BHR": {
-      "name": "Braemar Hotels & Resorts Inc.",
-      "price": 1.745,
-      "time": "2026-11-25T20:00:49.914489+00:00"
-    },
-    "CMTG": {
-      "name": "Claros Mortgage Trust, Inc.",
-      "price": 1.425,
-      "time": "2026-11-25T20:00:49.914489+00:00"
-    },
-    "LI": {
-      "name": "Li Auto Inc.",
-      "price": 11.59,
-      "time": "2026-11-25T20:00:49.914489+00:00"
+    "INTR": {
+      "name": "Inter & Co. Inc.",
+      "price": 4.66,
+      "time": "2026-11-27T21:05:49.218247+00:00"
     }
   }
 }
